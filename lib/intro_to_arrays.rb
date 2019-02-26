@@ -19,5 +19,5 @@ def last_element(arr)
 end
 
 def first_element_with_array_methods(arr)
-  arr
+  arr.first
 end
